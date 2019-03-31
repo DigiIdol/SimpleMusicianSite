@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /audio/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Host: www.kayber.ru
